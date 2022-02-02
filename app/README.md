@@ -1,7 +1,7 @@
 # Assignment 1
 
-## Name: Kodchamol Aukkarabenjasiri
-## ID: 6210612666
+Name: Kodchamol Aukkarabenjasiri
+ID: 6210612666
 
 Number Guessing Game Application
 
